@@ -8,14 +8,14 @@ While these presentations were made to compliment coursework and might not stand
 
 These presentations cover a variety of computational scientific methods, including but not limited to:
 - Fundamentals of coding
-* String operations
-* Data types
-* Numeric operations
-* Matrix/array operations
-* Logic
-* Loops
-* If statements
-* Functions
+  * String operations
+  * Data types
+  * Numeric operations
+  * Matrix/array operations
+  * Logic
+  * Loops
+  * If statements
+  * Functions
 - Data Visualizations
 - Data operations
 - Interpolation
